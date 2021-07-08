@@ -1,0 +1,80 @@
+trial 0 on smd 1_2 
+    f1 score: 0.0 
+        n_steps: 57 
+        g_lr: 0.06857611705048253 
+        d_lr: 0.06467956902134746 
+        filters: 12 
+        kernel_size: 25 
+        z_dim: 174 
+        reg_w: 0.1 
+        batch_size: 76 
+trial 4 on smd 1_2 
+    f1 score: 0.3614417911260454 
+        n_steps: 67 
+        g_lr: 0.0323190238438123 
+        d_lr: 0.06265817207182563 
+        filters: 14 
+        kernel_size: 19 
+        z_dim: 85 
+        reg_w: 0.4 
+        batch_size: 25 
+trial 7 on smd 1_2 
+    f1 score: 0.5214153499241411 
+        n_steps: 35 
+        g_lr: 0.04109935095449151 
+        d_lr: 0.08260561826857696 
+        filters: 29 
+        kernel_size: 16 
+        z_dim: 37 
+        reg_w: 0.7 
+        batch_size: 21 
+trial 10 on smd 1_2 
+    f1 score: 0.5239807825554588 
+        n_steps: 28 
+        g_lr: 0.09860653305988412 
+        d_lr: 0.07937747170358249 
+        filters: 32 
+        kernel_size: 12 
+        z_dim: 26 
+        reg_w: 0.7 
+        batch_size: 22 
+trial 11 on smd 1_2 
+    f1 score: 0.5612607241292201 
+        n_steps: 31 
+        g_lr: 0.08818915967047328 
+        d_lr: 0.07952308357316297 
+        filters: 31 
+        kernel_size: 12 
+        z_dim: 35 
+        reg_w: 0.7 
+        batch_size: 26 
+trial 23 on smd 1_2 
+    f1 score: 0.6944112800991785 
+        n_steps: 41 
+        g_lr: 0.04857195242677763 
+        d_lr: 0.08549624410198674 
+        filters: 32 
+        kernel_size: 12 
+        z_dim: 20 
+        reg_w: 0.8 
+        batch_size: 28 
+trial 54 on smd 1_2 
+    f1 score: 0.7606788694702027 
+        n_steps: 34 
+        g_lr: 0.06373214948142834 
+        d_lr: 0.08288723767205024 
+        filters: 29 
+        kernel_size: 12 
+        z_dim: 39 
+        reg_w: 0.7 
+        batch_size: 34 
+trial 149 on smd 1_2 
+    f1 score: 0.7891391201529744 
+        n_steps: 16 
+        g_lr: 0.09973707980466377 
+        d_lr: 0.08560538476467972 
+        filters: 21 
+        kernel_size: 13 
+        z_dim: 109 
+        reg_w: 0.7 
+        batch_size: 30 

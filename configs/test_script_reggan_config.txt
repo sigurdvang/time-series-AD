@@ -1,0 +1,23 @@
+[SYSTEM]
+MODEL_TYPE = RegGAN
+DATASET = smd
+n_epochs = 100
+n_steps = 9
+batch_size = 24
+
+[NovelGAN]
+z_dim = 27
+filters = 91
+kernel_size =  4
+lambda = 0.3803279754975738
+n_critic = 4
+gp_weight = 10
+n_layers = 1
+w_rec = 10
+w_cx = 7
+w_cz = 9
+w_E = 8
+g_lr = 5e-05
+d_lr = 5e-05
+E_lr = 5e-05
+cz_layers = 1,1

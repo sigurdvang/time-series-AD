@@ -1,0 +1,13 @@
+[SYSTEM]
+contamination_level = 0
+DATASET = smd
+MODEL_TYPE = MAD-GAN
+n_epochs = 100
+batch_size = 64
+
+[MAD-GAN]
+g_lr = 1e-03
+d_lr = 1e-03
+z_dim = 15
+n_layers = 3
+hidden_dim = 100

@@ -1,0 +1,11 @@
+[SYSTEM]
+MODEL_TYPE = lstm
+DATASET = nasa
+n_epochs = 100
+n_steps = 5
+batch_size = 33
+
+[lstm]
+n_layers = 1
+hidden_dim = 76
+lr =  2.6693631529783173e-05

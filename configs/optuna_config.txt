@@ -1,0 +1,5 @@
+[SYSTEM]
+MODEL_TYPE = BeatGAN
+DATASET = nasa
+n_trials = 2000
+n_epochs = 100

@@ -1,0 +1,18 @@
+[SYSTEM]
+MODEL_TYPE = TadGAN
+DATASET = smd
+n_epochs = 100
+n_steps = 29
+batch_size = 53
+
+[TadGAN]
+z_dim = 10
+G_n_layers=1
+filters = 26
+kernel_size =  17
+_lambda = 0.32691719038042183
+n_critic = 2
+gp_weight = 7
+g_lr = 5e-05
+d_lr = 5e-05
+cz_layers = 100,130,98,111,80

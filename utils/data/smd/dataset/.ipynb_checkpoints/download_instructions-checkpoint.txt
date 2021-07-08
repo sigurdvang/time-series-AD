@@ -1,0 +1,5 @@
+Retrieve the data from here
+
+https://github.com/NetManAIOps/OmniAnomaly
+
+Then place train, test and labeled data in folders called train, test, labels - respectively

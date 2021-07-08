@@ -1,0 +1,8 @@
+scikit-learn
+jupyterlab
+numpy
+tqdm
+dataclasses
+pyts<0.11>=0.9
+optuna
+more_itertools

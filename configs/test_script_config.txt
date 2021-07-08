@@ -1,0 +1,20 @@
+[SYSTEM]
+MODEL_TYPE = gmm
+DATASET = nasa
+n_epochs = 100
+n_steps = 12
+batch_size = 22
+
+[BeatGAN]
+filters = 20
+kernel_size = 11
+z_dim = 187
+reg_w = 0.7
+g_lr = 1e-03
+d_lr = 1e-03
+
+[knn]
+k = 5
+
+[gmm]
+k = 111
