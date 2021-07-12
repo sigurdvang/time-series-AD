@@ -1,4 +1,4 @@
-# Generative Adversarial Networks for Anomaly Detection in Multivariate Time-Series Data
+# Generative Adversarial Networks for Unsupervised Anomaly Detection in Multivariate Telecommunications Time-Series Data
 
 This repo contains the code related to my master thesis of the same title. It was written in collaboration with Telenor, with the goal of evaluating the
 utility of Generative Adversarial Networks (GANs) at performing anomaly detection (AD) in the telecommunicatins domain. As the Telenor dataset is not public, the code used
